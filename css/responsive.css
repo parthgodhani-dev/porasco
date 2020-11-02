@@ -1,0 +1,42 @@
+@media only screen and (max-width: 1199px) {
+    h2{font-size: 30px;}
+    h3{font-size: 26px;}
+    h4{font-size: 22px;}
+    h5{font-size: 18px;}
+    .banner-con h2{font-size: 36px;}
+    .banner-con p{font-size: 26px;}
+}
+@media only screen and (max-width: 991px)  {
+    p,.btn,li,.card-body{font-size: 14px;}
+    h2{font-size: 28px;}
+    h3{font-size: 24px;}
+    h4{font-size: 20px;}
+    h5{font-size: 16px;}
+    .navbar-light .navbar-toggler{border: none;outline: none;background: rgb(52,203,230);
+    background: linear-gradient(50deg, rgba(52,203,230,1) 20%, rgba(42,54,154,0.8015581232492998) 100%);}
+    .navbar-toggler:focus, .navbar-toggler:hover{outline: none;}
+    .navbar-collapse{text-align: center;}
+    #header .navbar-nav .btn{margin: 0 !important;}    
+    .hero-banner{padding: 30px 0;}
+    .banner-con{text-align: center;margin: 0 auto;padding-top: 30px;}
+    .banner-con h2{font-size: 32px;}
+    .banner-con p{font-size: 22px;}    
+}
+@media only screen and (max-width: 767px)  {
+    small{font-size: 10px;}
+    h2{font-size: 26px;}
+    h3{font-size: 22px;}
+    h4{font-size: 18px;}
+    h5{font-size: 14px;}
+    .banner-con h2{font-size: 28px;}
+    .banner-con p{font-size: 18px;}
+}
+@media only screen and (max-width: 479px)  {
+    p,.btn,li,.card-body{font-size: 12px;}
+    h2{font-size: 24px;}
+    h3{font-size: 20px;}
+    h4{font-size: 16px;}
+    h5{font-size: 12px;}
+    .banner-con{padding-top: 20px;}
+    .copyright p{font-size: 10px;}
+}
